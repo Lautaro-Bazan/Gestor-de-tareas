@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Hacer la cama",
+        "descripcion": "debe hacer la cama a la mañana todas las semanas"
+    },
+    {
+        "id": 2,
+        "titulo": "Limpiar la mesa",
+        "descripcion": "Despejar la mesa, quitar el polvo y limpiar la superficie para mantenerla ordenada y libre de suciedad."
+    },
+    {
+        "id": 3,
+        "titulo": "Estudiar una 1 hora",
+        "descripcion": "Dedicar una hora a concentrarse en repasar o aprender nuevos conceptos sin distracciones."
+    },
+    {
+        "id": 4,
+        "titulo": "Ir al super mercado",
+        "descripcion": "Hacer una lista de compras y dirigirse al supermercado para adquirir los artículos necesarios."
+    },
+    {
+        "id": 5,
+        "titulo": "comer saludable",
+        "descripcion": "Planificar y consumir comidas balanceadas y nutritivas que incluyan frutas, verduras, proteínas y granos enteros."
+    },
+    {
+        "id": 6,
+        "titulo": "Tomar 2 litros de agua",
+        "descripcion": "Beber al menos 2 litros de agua a lo largo del día para mantenerse hidratado y apoyar la salud general."
+    }
+]
